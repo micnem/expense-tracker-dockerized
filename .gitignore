@@ -4,3 +4,6 @@ dist
 .env.local
 coverage
 .DS_Store
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
